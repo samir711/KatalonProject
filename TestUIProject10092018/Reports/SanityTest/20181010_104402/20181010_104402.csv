@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SanityTest,Firefox 62.0,SanityTest,2018-10-10 10:44:23,2018-10-10 10:44:40,17.025s,PASSED
+,,,,,,
+Test Cases/ValidatetheLogin,Firefox 62.0,Test,2018-10-10 10:44:23,2018-10-10 10:44:32,9.205s,PASSED
+openBrowser,Firefox 62.0,,2018-10-10 10:44:24,2018-10-10 10:44:31,7.002s,PASSED
+click,Firefox 62.0,,2018-10-10 10:44:31,2018-10-10 10:44:31,0.445s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-10-10 10:44:31,2018-10-10 10:44:31,0.038s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-10 10:44:31,2018-10-10 10:44:31,0.166s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-10-10 10:44:31,2018-10-10 10:44:31,0.022s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:44:31,2018-10-10 10:44:32,0.101s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:44:32,2018-10-10 10:44:32,0.077s,PASSED
+click,Firefox 62.0,,2018-10-10 10:44:32,2018-10-10 10:44:32,0.339s,PASSED
+closeBrowser,Firefox 62.0,,2018-10-10 10:44:32,2018-10-10 10:44:32,0.490s,PASSED
+,,,,,,
+Test Cases/ValidateLoginWithInvalidData,Firefox 62.0,Another Test,2018-10-10 10:44:32,2018-10-10 10:44:39,6.859s,PASSED
+openBrowser,Firefox 62.0,,2018-10-10 10:44:33,2018-10-10 10:44:38,5.476s,PASSED
+click,Firefox 62.0,,2018-10-10 10:44:38,2018-10-10 10:44:38,0.390s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-10-10 10:44:38,2018-10-10 10:44:38,0.040s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-10 10:44:38,2018-10-10 10:44:39,0.162s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.014s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.062s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.075s,PASSED
+click,Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.313s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.129s,PASSED
+Statement - actualMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Login/p_Login failed Please ensure)),Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.045s,PASSED
+"Statement - expMessage = ""Login failed! Please ensure the username and password are valid.""",Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.001s,PASSED
+Statement - If (expMessage.equalsIgnoreCase(actualMessage)),Firefox 62.0,,2018-10-10 10:44:39,2018-10-10 10:44:39,0.009s,PASSED

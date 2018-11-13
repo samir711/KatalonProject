@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AlertExample</description>
+   <name>AlertExample</name>
+   <tag>test</tag>
+   <comment></comment>
+   <testCaseGuid>922b5007-c438-467a-9ffc-42b9b3996e2e</testCaseGuid>
+</TestCaseEntity>

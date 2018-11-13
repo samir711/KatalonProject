@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>SanityTest</description>
+   <name>SanityTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-10-11T09:46:17</lastRun>
+   <mailRecipient>samirdoc1@gmail.com;</mailRecipient>
+   <numberOfRerun>2</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <testSuiteGuid>37d8265b-46ba-4eca-b0c6-aa50bcf78416</testSuiteGuid>
+   <testCaseLink>
+      <guid>5fae0572-edbe-4cac-b375-e596d071cf2f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginValidation/ValidatetheLogin</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>72f276e5-0d7f-4e14-80f2-7e94f5b45421</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>40cad379-60be-4435-8b36-e03db127694b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f2efdbd0-0432-4037-8552-3423639a633b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginValidation/ValidateLoginWithInvalidData</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bbc567ae-6da5-4262-9009-0b43e106bbc4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2cb7ce61-3f30-45c2-9d8c-487edc5b53be</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8ead0ee7-8f86-4bd3-8070-3a8463d51d5e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

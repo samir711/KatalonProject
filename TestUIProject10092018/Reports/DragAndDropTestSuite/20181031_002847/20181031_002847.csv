@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+DragAndDropTestSuite,Chrome 69.0.3497.100,,2018-10-31 00:28:48,2018-10-31 00:28:58,9.816s,PASSED
+,,,,,,
+Test Cases/DragAndDrop/DragAndDropExample,Chrome 69.0.3497.100,,2018-10-31 00:28:49,2018-10-31 00:28:57,8.523s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-31 00:28:49,2018-10-31 00:28:53,4.265s,PASSED
+maximizeWindow,Chrome 69.0.3497.100,,2018-10-31 00:28:53,2018-10-31 00:28:55,1.843s,PASSED
+waitForPageLoad,Chrome 69.0.3497.100,,2018-10-31 00:28:55,2018-10-31 00:28:55,0.056s,PASSED
+dragAndDropToObject,Chrome 69.0.3497.100,,2018-10-31 00:28:55,2018-10-31 00:28:56,1.054s,PASSED
+takeScreenshot,Chrome 69.0.3497.100,,2018-10-31 00:28:56,2018-10-31 00:28:57,1.007s,PASSED

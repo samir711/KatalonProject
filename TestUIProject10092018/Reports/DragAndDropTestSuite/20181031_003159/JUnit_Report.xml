@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DragAndDropTestSuite" time="10" tests="1" failures="0" errors="0">
+   <testsuite name="DragAndDropTestSuite" tests="1" failures="0" errors="0" time="10" timestamp="2018-10-31 00:32:00" hostname="max3q - 192.168.31.118" id="Test Suites/DragAndDropTestSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\KatalonStudioProjectWS\\TestUIProject10092018\\Reports\\DragAndDropTestSuite\\20181031_003159"/>
+         <property name="logFiles" value="D:\\KatalonStudioProjectWS\\TestUIProject10092018\\Reports\\DragAndDropTestSuite\\20181031_003159\\execution0.log"/>
+         <property name="attachments" value="D:\\KatalonStudioProjectWS\\TestUIProject10092018\\ScreenShot\\drapdrop.png"/>
+         <property name="hostName" value="max3q - 192.168.31.118"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.4.14"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.31.118"/>
+         <property name="sessionId" value="421917340fb7d6f4177497f9d91a00ad"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DragAndDrop/DragAndDropExample" classname="Test Cases/DragAndDrop/DragAndDropExample" status="PASSED">
+         <system-out><![CDATA[2018-10-31 00:32:01 - [TEST_CASE][PASSED] - Test Cases/DragAndDrop/DragAndDropExample: Test Cases/DragAndDrop/DragAndDropExample
+
+2018-10-31 00:32:01 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://jqueryui.com/droppable/'
+
+2018-10-31 00:32:07 - [MESSAGE][PASSED] - Browser is opened with url: 'http://jqueryui.com/droppable/'
+
+2018-10-31 00:32:07 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-10-31 00:32:08 - [MESSAGE][PASSED] - Current window maximized
+
+2018-10-31 00:32:08 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-10-31 00:32:08 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-10-31 00:32:08 - [TEST_STEP][PASSED] - dragAndDropToObject: Dragged object with id 'Object Repository/DragAndDropWindowOne/Page_Droppable  jQuery UI/p_Drag me to my target' to object with id 'TestObject - 'Object Repository/DragAndDropWindow/Page_Droppable  jQuery UI/div_Drop here'' successfully
+
+2018-10-31 00:32:09 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/DragAndDropWindowOne/Page_Droppable  jQuery UI/p_Drag me to my target' to object with id 'TestObject - 'Object Repository/DragAndDropWindow/Page_Droppable  jQuery UI/div_Drop here'' successfully
+
+2018-10-31 00:32:09 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-10-31 00:32:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|D:\\KatalonStudioProjectWS\\TestUIProject10092018\\ScreenShot\\drapdrop.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-31 00:32:00 - [TEST_SUITE][PASSED] - DragAndDropTestSuite: Test Cases/DragAndDrop/DragAndDropExample]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

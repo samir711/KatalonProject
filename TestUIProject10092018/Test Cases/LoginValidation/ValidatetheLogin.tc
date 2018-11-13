@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test</description>
+   <name>ValidatetheLogin</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>0acccbdd-858a-47e8-84dc-fdb5b9312704</testCaseGuid>
+   <variable>
+      <defaultValue>'Test1'</defaultValue>
+      <description></description>
+      <id>72f276e5-0d7f-4e14-80f2-7e94f5b45421</id>
+      <masked>false</masked>
+      <name>UsrName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Passs1'</defaultValue>
+      <description></description>
+      <id>40cad379-60be-4435-8b36-e03db127694b</id>
+      <masked>false</masked>
+      <name>Passwrod</name>
+   </variable>
+</TestCaseEntity>

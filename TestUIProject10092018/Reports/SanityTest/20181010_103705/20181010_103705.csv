@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SanityTest,Firefox 62.0,SanityTest,2018-10-10 10:37:07,2018-10-10 10:37:16,9.511s,ERROR
+,,,,,,
+Test Cases/ValidateLoginWithInvalidData,Firefox 62.0,Another Test,2018-10-10 10:37:07,2018-10-10 10:37:16,8.526s,ERROR
+openBrowser,Firefox 62.0,,2018-10-10 10:37:08,2018-10-10 10:37:15,6.694s,PASSED
+click,Firefox 62.0,,2018-10-10 10:37:15,2018-10-10 10:37:15,0.384s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-10-10 10:37:15,2018-10-10 10:37:15,0.029s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-10 10:37:15,2018-10-10 10:37:15,0.144s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-10-10 10:37:15,2018-10-10 10:37:15,0.025s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:37:15,2018-10-10 10:37:15,0.092s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:37:15,2018-10-10 10:37:15,0.083s,PASSED
+click,Firefox 62.0,,2018-10-10 10:37:15,2018-10-10 10:37:16,0.347s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-10 10:37:16,2018-10-10 10:37:16,0.168s,PASSED
+Statement - actualMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Login/p_Login failed Please ensure)),Firefox 62.0,,2018-10-10 10:37:16,2018-10-10 10:37:16,0.039s,PASSED
+"Statement - expMessage = ""Login failed! Please ensure the username and password are valid.""",Firefox 62.0,,2018-10-10 10:37:16,2018-10-10 10:37:16,0.001s,PASSED
+Statement - If (expMessage.equalsIgnoreCase(expMessage).call(actualMessage)),Firefox 62.0,,2018-10-10 10:37:16,2018-10-10 10:37:16,0.007s,PASSED

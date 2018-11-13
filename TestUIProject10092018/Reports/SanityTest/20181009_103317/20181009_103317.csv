@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SanityTest,Chrome 69.0.3497.100,SanityTest,2018-10-09 10:33:19,2018-10-09 10:33:27,8.196s,FAILED
+,,,,,,
+Test Cases/ValidatetheLogin,Chrome 69.0.3497.100,Test,2018-10-09 10:33:19,2018-10-09 10:33:26,6.412s,FAILED
+openBrowser,Chrome 69.0.3497.100,,2018-10-09 10:33:20,2018-10-09 10:33:24,4.768s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-09 10:33:24,2018-10-09 10:33:25,0.403s,PASSED
+verifyElementPresent,Chrome 69.0.3497.100,,2018-10-09 10:33:25,2018-10-09 10:33:25,0.064s,PASSED
+verifyTextPresent,Chrome 69.0.3497.100,,2018-10-09 10:33:25,2018-10-09 10:33:26,0.785s,FAILED

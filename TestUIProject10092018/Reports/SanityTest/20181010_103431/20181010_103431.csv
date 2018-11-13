@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SanityTest,Firefox 62.0,SanityTest,2018-10-10 10:34:52,2018-10-10 10:35:01,9.768s,PASSED
+,,,,,,
+Test Cases/ValidatetheLogin,Firefox 62.0,Test,2018-10-10 10:34:52,2018-10-10 10:35:01,9.226s,PASSED
+openBrowser,Firefox 62.0,,2018-10-10 10:34:52,2018-10-10 10:35:00,7.171s,PASSED
+click,Firefox 62.0,,2018-10-10 10:35:00,2018-10-10 10:35:00,0.358s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-10-10 10:35:00,2018-10-10 10:35:00,0.029s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-10 10:35:00,2018-10-10 10:35:00,0.188s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-10-10 10:35:00,2018-10-10 10:35:00,0.022s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:35:00,2018-10-10 10:35:00,0.131s,PASSED
+setText,Firefox 62.0,,2018-10-10 10:35:00,2018-10-10 10:35:00,0.094s,PASSED
+click,Firefox 62.0,,2018-10-10 10:35:00,2018-10-10 10:35:01,0.341s,PASSED
+closeBrowser,Firefox 62.0,,2018-10-10 10:35:01,2018-10-10 10:35:01,0.457s,PASSED

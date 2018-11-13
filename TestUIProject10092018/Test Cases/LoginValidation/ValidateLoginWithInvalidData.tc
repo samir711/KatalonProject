@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Another Test</description>
+   <name>ValidateLoginWithInvalidData</name>
+   <tag>Loging</tag>
+   <comment></comment>
+   <testCaseGuid>1396b3ec-d665-46ce-aac0-334d01c4aabc</testCaseGuid>
+   <variable>
+      <defaultValue>'ITeLearn'</defaultValue>
+      <description></description>
+      <id>bbc567ae-6da5-4262-9009-0b43e106bbc4</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password'</defaultValue>
+      <description></description>
+      <id>2cb7ce61-3f30-45c2-9d8c-487edc5b53be</id>
+      <masked>false</masked>
+      <name>Pasword</name>
+   </variable>
+   <variable>
+      <defaultValue>'8080'</defaultValue>
+      <description></description>
+      <id>8ead0ee7-8f86-4bd3-8070-3a8463d51d5e</id>
+      <masked>false</masked>
+      <name>port</name>
+   </variable>
+</TestCaseEntity>

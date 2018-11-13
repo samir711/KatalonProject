@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Regression,Chrome 69.0.3497.100,,2018-10-10 10:44:05,2018-10-10 10:44:20,14.757s,PASSED
+,,,,,,
+Test Cases/ValidateLoginWithInvalidData,Chrome 69.0.3497.100,Another Test,2018-10-10 10:44:06,2018-10-10 10:44:12,6.850s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 10:44:06,2018-10-10 10:44:11,4.668s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 10:44:11,2018-10-10 10:44:11,0.427s,PASSED
+verifyElementPresent,Chrome 69.0.3497.100,,2018-10-10 10:44:11,2018-10-10 10:44:11,0.063s,PASSED
+verifyTextPresent,Chrome 69.0.3497.100,,2018-10-10 10:44:11,2018-10-10 10:44:11,0.115s,PASSED
+waitForElementPresent,Chrome 69.0.3497.100,,2018-10-10 10:44:11,2018-10-10 10:44:11,0.045s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-10 10:44:11,2018-10-10 10:44:12,0.259s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-10 10:44:12,2018-10-10 10:44:12,0.227s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 10:44:12,2018-10-10 10:44:12,0.407s,PASSED
+verifyTextPresent,Chrome 69.0.3497.100,,2018-10-10 10:44:12,2018-10-10 10:44:12,0.151s,PASSED
+Statement - actualMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Login/p_Login failed Please ensure)),Chrome 69.0.3497.100,,2018-10-10 10:44:12,2018-10-10 10:44:12,0.071s,PASSED
+"Statement - expMessage = ""Login failed! Please ensure the username and password are valid.""",Chrome 69.0.3497.100,,2018-10-10 10:44:12,2018-10-10 10:44:12,0.000s,PASSED
+Statement - If (expMessage.equalsIgnoreCase(actualMessage)),Chrome 69.0.3497.100,,2018-10-10 10:44:12,2018-10-10 10:44:12,0.006s,PASSED
+,,,,,,
+Test Cases/ValidatetheLogin,Chrome 69.0.3497.100,Test,2018-10-10 10:44:12,2018-10-10 10:44:20,7.430s,PASSED
+openBrowser,Chrome 69.0.3497.100,,2018-10-10 10:44:13,2018-10-10 10:44:17,4.463s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 10:44:17,2018-10-10 10:44:18,0.497s,PASSED
+verifyElementPresent,Chrome 69.0.3497.100,,2018-10-10 10:44:18,2018-10-10 10:44:18,0.078s,PASSED
+verifyTextPresent,Chrome 69.0.3497.100,,2018-10-10 10:44:18,2018-10-10 10:44:18,0.126s,PASSED
+waitForElementPresent,Chrome 69.0.3497.100,,2018-10-10 10:44:18,2018-10-10 10:44:18,0.059s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-10 10:44:18,2018-10-10 10:44:18,0.259s,PASSED
+setText,Chrome 69.0.3497.100,,2018-10-10 10:44:18,2018-10-10 10:44:18,0.191s,PASSED
+click,Chrome 69.0.3497.100,,2018-10-10 10:44:18,2018-10-10 10:44:19,0.419s,PASSED
+closeBrowser,Chrome 69.0.3497.100,,2018-10-10 10:44:19,2018-10-10 10:44:20,1.182s,PASSED

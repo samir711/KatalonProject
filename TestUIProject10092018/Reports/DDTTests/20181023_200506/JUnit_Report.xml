@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DDTTests" time="46" tests="6" failures="0" errors="0">
+   <testsuite name="DDTTests" tests="6" failures="0" errors="0" time="46" timestamp="2018-10-23 20:05:08" hostname="max3q - 192.168.31.115" id="Test Suites/DDTTests">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\KatalonStudioProjectWS\\TestUIProject10092018\\Reports\\DDTTests\\20181023_200506"/>
+         <property name="logFiles" value="D:\\KatalonStudioProjectWS\\TestUIProject10092018\\Reports\\DDTTests\\20181023_200506\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="max3q - 192.168.31.115"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.31.115"/>
+         <property name="sessionId" value="84bfa7871fad5e4ac9251497ea6a90ce"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LoginValidation/ValidatetheLogin DDF" classname="Test Cases/LoginValidation/ValidatetheLogin DDF" status="PASSED">
+         <system-out><![CDATA[2018-10-23 20:05:08 - [TEST_CASE][PASSED] - Test Cases/LoginValidation/ValidatetheLogin DDF: Test Cases/LoginValidation/ValidatetheLogin DDF
+
+2018-10-23 20:05:09 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:13 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:13 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:13 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:13 - [MESSAGE][PASSED] - Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:13 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:14 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:14 - [TEST_STEP][PASSED] - setText: Text 'User1' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:14 - [MESSAGE][PASSED] - Text 'User1' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:14 - [TEST_STEP][PASSED] - setText: Text 'Pass1' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:14 - [MESSAGE][PASSED] - Text 'Pass1' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:14 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:14 - [MESSAGE][PASSED] - Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:14 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-23 20:05:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-23 20:05:16 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-23 20:05:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LoginValidation/ValidatetheLogin DDF" classname="Test Cases/LoginValidation/ValidatetheLogin DDF" status="PASSED">
+         <system-out><![CDATA[2018-10-23 20:05:17 - [TEST_CASE][PASSED] - Test Cases/LoginValidation/ValidatetheLogin DDF: Test Cases/LoginValidation/ValidatetheLogin DDF
+
+2018-10-23 20:05:17 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:20 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:21 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:21 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:21 - [MESSAGE][PASSED] - Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:21 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:21 - [TEST_STEP][PASSED] - setText: Text 'User2' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:21 - [MESSAGE][PASSED] - Text 'User2' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:21 - [TEST_STEP][PASSED] - setText: Text 'Pass2' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:21 - [MESSAGE][PASSED] - Text 'Pass2' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:22 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:22 - [MESSAGE][PASSED] - Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-23 20:05:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-23 20:05:24 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-23 20:05:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LoginValidation/ValidatetheLogin DDF" classname="Test Cases/LoginValidation/ValidatetheLogin DDF" status="PASSED">
+         <system-out><![CDATA[2018-10-23 20:05:25 - [TEST_CASE][PASSED] - Test Cases/LoginValidation/ValidatetheLogin DDF: Test Cases/LoginValidation/ValidatetheLogin DDF
+
+2018-10-23 20:05:25 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:28 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:28 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:28 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:28 - [MESSAGE][PASSED] - Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:28 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:28 - [TEST_STEP][PASSED] - setText: Text 'User3' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:29 - [MESSAGE][PASSED] - Text 'User3' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:29 - [TEST_STEP][PASSED] - setText: Text 'Pass3' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:29 - [MESSAGE][PASSED] - Text 'Pass3' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:29 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:29 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:29 - [MESSAGE][PASSED] - Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:29 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-23 20:05:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-23 20:05:31 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-23 20:05:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LoginValidation/ValidatetheLogin DDF" classname="Test Cases/LoginValidation/ValidatetheLogin DDF" status="PASSED">
+         <system-out><![CDATA[2018-10-23 20:05:32 - [TEST_CASE][PASSED] - Test Cases/LoginValidation/ValidatetheLogin DDF: Test Cases/LoginValidation/ValidatetheLogin DDF
+
+2018-10-23 20:05:32 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:35 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:35 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:35 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:35 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:36 - [MESSAGE][PASSED] - Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:36 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:36 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:36 - [TEST_STEP][PASSED] - setText: Text 'User4' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:36 - [MESSAGE][PASSED] - Text 'User4' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:36 - [TEST_STEP][PASSED] - setText: Text 'Pass4' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:36 - [MESSAGE][PASSED] - Text 'Pass4' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:36 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:36 - [MESSAGE][PASSED] - Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:36 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-23 20:05:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-23 20:05:38 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-23 20:05:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LoginValidation/ValidatetheLogin DDF" classname="Test Cases/LoginValidation/ValidatetheLogin DDF" status="PASSED">
+         <system-out><![CDATA[2018-10-23 20:05:39 - [TEST_CASE][PASSED] - Test Cases/LoginValidation/ValidatetheLogin DDF: Test Cases/LoginValidation/ValidatetheLogin DDF
+
+2018-10-23 20:05:39 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:43 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:43 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:43 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:43 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:43 - [MESSAGE][PASSED] - Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:43 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:43 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:43 - [TEST_STEP][PASSED] - setText: Text 'User5' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:43 - [MESSAGE][PASSED] - Text 'User5' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:43 - [TEST_STEP][PASSED] - setText: Text 'Pass5' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:43 - [MESSAGE][PASSED] - Text 'Pass5' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:44 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:44 - [MESSAGE][PASSED] - Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:44 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-23 20:05:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-23 20:05:46 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-23 20:05:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LoginValidation/ValidatetheLogin DDF" classname="Test Cases/LoginValidation/ValidatetheLogin DDF" status="PASSED">
+         <system-out><![CDATA[2018-10-23 20:05:47 - [TEST_CASE][PASSED] - Test Cases/LoginValidation/ValidatetheLogin DDF: Test Cases/LoginValidation/ValidatetheLogin DDF
+
+2018-10-23 20:05:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:50 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/'
+
+2018-10-23 20:05:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-10-23 20:05:50 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:50 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/p_Please login to make appoint' is present
+
+2018-10-23 20:05:50 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:50 - [MESSAGE][PASSED] - Text 'Please login to make appointment.' is present on page 
+
+2018-10-23 20:05:50 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:51 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Login/h2_Login' is present
+
+2018-10-23 20:05:51 - [TEST_STEP][PASSED] - setText: Text 'John Deo' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:51 - [MESSAGE][PASSED] - Text 'John Deo' is set on object 'Object Repository/Page_Login/input_Username_username'
+
+2018-10-23 20:05:51 - [TEST_STEP][PASSED] - setText: Text 'ThisisNotAPassword' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:51 - [MESSAGE][PASSED] - Text 'ThisisNotAPassword' is set on object 'Object Repository/Page_Login/input_Password_password'
+
+2018-10-23 20:05:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/button_Login' is clicked on
+
+2018-10-23 20:05:51 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:51 - [MESSAGE][PASSED] - Text 'Login failed! Please ensure the username and password are valid.' is present on page 
+
+2018-10-23 20:05:51 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-10-23 20:05:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-23 20:05:53 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-23 20:05:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-23 20:05:08 - [TEST_SUITE][PASSED] - DDTTests: Test Cases/LoginValidation/ValidatetheLogin DDF]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

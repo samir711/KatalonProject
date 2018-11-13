@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description>Login TEst Data for UI Health Care</description>
+   <name>LoginDataCheck</name>
+   <tag></tag>
+   <csv-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>D:\KatalonStudioProjectWS\TestUIProject10092018\UIHealthLogin.csv</source-url>
+      <source-type>CSV</source-type>
+      <sheet-name-or-separator>COMMA</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </csv-source-info>
+   <taken-date>2018-10-22T21:18:36.396</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Test",
+      "checked": true
+    },
+    {
+      "value": "password",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "test1",
+      "checked": true
+    },
+    {
+      "value": "password1",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Regression,Firefox 62.0,,2018-10-11 09:53:53,2018-10-11 09:54:10,16.348s,PASSED
+,,,,,,
+Test Cases/LoginValidation/ValidateLoginWithInvalidData,Firefox 62.0,Another Test,2018-10-11 09:53:54,2018-10-11 09:54:03,8.934s,PASSED
+openBrowser,Firefox 62.0,,2018-10-11 09:53:54,2018-10-11 09:54:01,6.750s,PASSED
+click,Firefox 62.0,,2018-10-11 09:54:01,2018-10-11 09:54:01,0.306s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-10-11 09:54:01,2018-10-11 09:54:01,0.130s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-11 09:54:01,2018-10-11 09:54:01,0.163s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-10-11 09:54:01,2018-10-11 09:54:01,0.031s,PASSED
+setText,Firefox 62.0,,2018-10-11 09:54:01,2018-10-11 09:54:02,0.119s,PASSED
+setText,Firefox 62.0,,2018-10-11 09:54:02,2018-10-11 09:54:02,0.087s,PASSED
+click,Firefox 62.0,,2018-10-11 09:54:02,2018-10-11 09:54:02,0.344s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-11 09:54:02,2018-10-11 09:54:02,0.151s,PASSED
+Statement - actualMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Login/p_Login failed Please ensure)),Firefox 62.0,,2018-10-11 09:54:02,2018-10-11 09:54:02,0.034s,PASSED
+"Statement - expMessage = ""Login failed! Please ensure the username and password are valid.""",Firefox 62.0,,2018-10-11 09:54:02,2018-10-11 09:54:02,0.003s,PASSED
+Statement - If (expMessage.equalsIgnoreCase(actualMessage)),Firefox 62.0,,2018-10-11 09:54:02,2018-10-11 09:54:02,0.009s,PASSED
+closeBrowser,Firefox 62.0,,2018-10-11 09:54:02,2018-10-11 09:54:03,0.424s,PASSED
+,,,,,,
+Test Cases/LoginValidation/ValidatetheLogin,Firefox 62.0,Test,2018-10-11 09:54:03,2018-10-11 09:54:10,6.963s,PASSED
+openBrowser,Firefox 62.0,,2018-10-11 09:54:03,2018-10-11 09:54:08,5.163s,PASSED
+click,Firefox 62.0,,2018-10-11 09:54:08,2018-10-11 09:54:08,0.362s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-10-11 09:54:08,2018-10-11 09:54:08,0.041s,PASSED
+verifyTextPresent,Firefox 62.0,,2018-10-11 09:54:08,2018-10-11 09:54:09,0.179s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-10-11 09:54:09,2018-10-11 09:54:09,0.017s,PASSED
+setText,Firefox 62.0,,2018-10-11 09:54:09,2018-10-11 09:54:09,0.068s,PASSED
+setText,Firefox 62.0,,2018-10-11 09:54:09,2018-10-11 09:54:09,0.069s,PASSED
+click,Firefox 62.0,,2018-10-11 09:54:09,2018-10-11 09:54:09,0.388s,PASSED
+closeBrowser,Firefox 62.0,,2018-10-11 09:54:09,2018-10-11 09:54:10,0.537s,PASSED
